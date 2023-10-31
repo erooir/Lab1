@@ -3,6 +3,6 @@ public class a2 {
 
     }
     public void hello(){
-        System.out.println("hello1");
+        System.out.println("helloB2");
     }
 }
